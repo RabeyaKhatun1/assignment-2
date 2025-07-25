@@ -123,14 +123,15 @@ gap: 40px;
     position: relative;
     top: 50px;
    right: 250px;
+   width: 540px;
+            height: 597px;
 }
 .img-1{
     position: relative;
     width: 540px; height: 520px;
 }
-.img-2:hover {
-  transform: rotate(360deg);
-  transition: transform 3s ease;
+.img-2 {
+
   width:386px; height: 286px;
 }
 .fourth-container-title{
@@ -253,7 +254,7 @@ padding-right: 20px;
 background-color: white;
 }
 .form-button:hover{
-background-color: aqua;
+background-color: rgb(223, 102, 4);
 }
 .form-button{
   
@@ -264,7 +265,7 @@ padding-left: 26px;
 padding-right: 26px;
 /* padding-left:  53px; */
 padding-right: 50px;
-background-color: #E95A08;
+background-color: #fca776;
 border-radius: 2px;
 margin-left: 0;
 }
@@ -380,7 +381,7 @@ footer{
     }
     .info-section{
         font-size: 14px;
-           width: 361px; 
+        width: 321px; 
          height: 234px;  
       position: relative;
       left:10px;
