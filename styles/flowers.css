@@ -460,6 +460,10 @@ height: 117px;
         height: 50px;
      }
      .form-button{
+        /* position: relative;
+        right: 10px; */
+        text-align: center; 
+        padding-left: 10px;
 width: 93px;
 height: 50px;
      }
